@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ybwowen/Desktop/source/Homework1/plates/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/plates.dir/main.cpp.o -c /home/ybwowen/Desktop/source/Homework1/plates/main.cpp",
+  "file": "/home/ybwowen/Desktop/source/Homework1/plates/main.cpp"
+}
+]

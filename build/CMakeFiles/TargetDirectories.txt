@@ -1,0 +1,3 @@
+/home/ybwowen/Desktop/source/Homework1/plates/build/CMakeFiles/plates.dir
+/home/ybwowen/Desktop/source/Homework1/plates/build/CMakeFiles/edit_cache.dir
+/home/ybwowen/Desktop/source/Homework1/plates/build/CMakeFiles/rebuild_cache.dir
